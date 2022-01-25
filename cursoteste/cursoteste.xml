@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>cursoteste</name>
+    </assembly>
+    <members>
+        <member name="T:cursoteste.Controllers.UsuarioController">
+             <summary>
+             Autentificar um usuario cadastrado e ativo
+             </summary>
+            <param name="loginViewModelInput">View model do login</param>param>
+            <returns>Retorna status ok e se o token estiver errado da erro</returns>
+        </member>
+    </members>
+</doc>
